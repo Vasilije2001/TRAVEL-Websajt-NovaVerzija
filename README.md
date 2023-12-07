@@ -3,7 +3,7 @@
 Turistički vebsajt koji je odrađen uz pomoću HTML, CSS, JS i JSON rađen u VSCode okruženju. Takođe se koristila upotreba Photoshop-a za dizajniranje logo-a.
 
 Zbog obivnosti projekta, nije bilo moguće pushovati ceo projekat na github.
-Iz tog razloga je zipovan u 2 dela, skidaju se oba fajlova i unzipuje glavni zip.
+Iz tog razloga je zipovan u 2 dela, skidaju se oba fajla i unzipuje glavni zip.
 
 Cilj i svrha veb sajta TRAVEL jeste da korisnici mogu da pogledaju i rezervišu putovanje ili odmor na raznim lokacijama koje su u ponudi. 
 Veb sajt se sastoji iz osam delova: Početne, Rezervacije, Akcije, Usluge, Galerije, Recenzije, Kontakta i Logina.
